@@ -1,3 +1,4 @@
+
 # JWT-Based User Registration and Authentication System
 
 
@@ -35,9 +36,9 @@ JWT-Based User Registration and Authentication System Backend is a RESTful API d
 * Request Body:
 ```bash
 {
-  "firstname": "John",
-  "lastname": "Doe",
-  "email": "john.doe@example.com",
+  "firstname": "Srisankaran",
+  "lastname": "V",
+  "email": "srisankaran@example.com",
   "password": "password123",
   "role": "USER"
 }
@@ -57,7 +58,7 @@ JWT-Based User Registration and Authentication System Backend is a RESTful API d
 * Request Body:
 ```bash
 {
-  "email": "john.doe@example.com",
+  "email": "srisankaran@example.com",
   "password": "password123"
 }
 
