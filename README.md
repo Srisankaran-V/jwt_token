@@ -1,5 +1,5 @@
 
-# JWT-Based User Registration and Authentication System
+# JWT Authentication System
 
 
 JWT-Based User Registration and Authentication System Backend is a RESTful API developed using Spring Boot. This backend service handles user authentication and role-based access control for a drug inventory management system.
